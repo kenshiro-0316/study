@@ -7,3 +7,4 @@ AuthName "Please enter your ID and password"
 AuthType Basic
 require valid-user 
 order deny,allow
+kendea:8z2/UVqRkIsqA
